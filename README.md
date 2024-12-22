@@ -1,6 +1,6 @@
-# checkapi
+# 🌟 SimpleForum
 
-A new Flutter project.
+SimpleForum is a modern forum application built with Flutter as the frontend and Laravel as the backend. Integrated with MySQL for database management, it provides a fast, secure, and intuitive user interaction experience.
 
 ## Getting Started
 
